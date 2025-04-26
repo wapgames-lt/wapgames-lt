@@ -4,7 +4,7 @@
 - 💻 PHP (5+ years of experience)
 
 ## 📈 GitHub Stats:
-![Wapgames-lt GitHub Stats](https://github-readme-stats.vercel.app/api?username=wapgames-lt&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)(https://github.com/wapgames-lt))
+![Wapgames-lt GitHub Stats](https://github-readme-stats.vercel.app/api?username=wapgames-lt&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)
 
 
 ![wapgames-lt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wapgames-lt&theme=vue-dark&hide_border=true)
